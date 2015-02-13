@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=008-PotenzaIterativaRicorsiva
+PROJECTNAME=Ese008
 
 # Active Configuration
 DEFAULTCONF=Debug
